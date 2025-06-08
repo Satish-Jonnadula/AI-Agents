@@ -1,0 +1,17 @@
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+defusedxml 
+pypdf
+bs4
+arxiv
+PyMuPDF
+wikipedia
+langchain_huggingface
+faiss-cpu
+langchain_google_genai
+langchain_pinecone
