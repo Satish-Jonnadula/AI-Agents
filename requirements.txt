@@ -29,3 +29,5 @@ wikipedia
 langgraph
 chromadb
 protobuf==3.20.*
+langchain_milvus
+googlemaps
